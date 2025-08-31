@@ -1,0 +1,14 @@
+{
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "href": "https://linkedin.com/in/matthwle",
+      "icon": "linkedin"
+    },
+    {
+      "name": "GitHub",
+      "href": "https://github.com/matthewle87",
+      "icon": "github"
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "projects": [
+    {
+      "name": "IrvineHacks MealMate",
+      "description": "Introducing MealMate! Your best friend for finding recipe to make use of the ingredients you have! MealMate has an AI powered Object Detection model for images that would use the ingriedients to suggest a recipe. (In Development)",
+      "image": "/mealmate.jpg",
+      "tags": [
+        "Python",
+        "BeautifulSoup",
+        "NLTK",
+        "Web Scraping"
+      ],
+      "links": [
+        {
+          "name": "Source",
+          "href": "https://github.com/matthewle87/MealMate",
+          "icon": "github"
+        }
+      ]
+    },
+    {
+      "name": "Security Camera System",
+      "description": "A security camera system that would auto detect people, start recording, and allow for easy searching of footage from their cameras.",
+      "image": "/camerasystem.png",
+      "tags": [
+        "Python",
+        "OpenCV",
+        "YOLO",
+        "Object Detection"
+      ],
+      "links": [
+        {
+          "name": "Source",
+          "href": "https://github.com/matthewle87/AutonomousSecurityCamera",
+          "icon": "github"
+        }
+      ]
+    },
+    {
+      "name": "ZotSearch",
+      "description": "A search engine for UC Irvine related resources",
+      "image": "/zotsearch.png",
+      "tags": [
+        "Python",
+        "BeautifulSoup",
+        "NLTK",
+        "Web Scraping"
+      ],
+      "links": [
+        {
+          "name": "Source",
+          "href": "https://github.com/tedawf/tt4d",
+          "icon": "github"
+        }
+      ]
+    }
+  ]
+}

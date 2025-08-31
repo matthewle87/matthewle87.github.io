@@ -1,0 +1,16 @@
+{
+  "education": [
+    {
+      "name": "University of California, Irvine",
+      "href": "https://www.uci.edu",
+      "title": "BS in Computer Science",
+      "logo": "/uci.png",
+      "start": "Sep 2021",
+      "end": "Dec 2025",
+      "description": [
+        "GPA: 3.879/4.00",
+        "11-time recipient of the Dean's Honor List"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "career": [
+    {
+      "name": "Amazon",
+      "href": "https://www.amazon.com",
+      "title": "Software Developer Engineer Intern",
+      "logo": "/amazon.png",
+      "start": "May 2025",
+      "end": "Aug 2025",
+      "skills": [
+        "Java",
+        "AWS Lambda",
+        "DynamoDB",
+        "React",
+        "Typescript",
+        "Kinesis Streams",
+        "Python"
+      ],
+      "description": [
+        "Designed and implemented an event-driven ETL pipeline using Kinesis Streams and AWS Lambda to persist datainto a DynamoDB table with Java and Dagger dependency injection",
+        "Implemented a React and Typescript frontend to allow 10,000+ users to search, sort, and filter through DynamoDB records with a lambda endpoint that returned paginated results",
+        "Achieved 100% code coverage for backend and frontend using Mockito, JUnit, and Vitest for automatic testing",
+        "Reduced data backfill time by 90% by developing a Python script to efficiently ingest CSV data into DynamoDB"
+      ]
+    },
+    {
+      "name": "Information Management Technologies",
+      "skills": [
+        "Java",
+        "C#",
+        "Python",
+        ".NET",
+        "SQL Server",
+        "HTML/CSS",
+        "Visual Basic"
+      ],
+      "href": "https://www.imtdata.com/",
+      "title": "Software Engineer",
+      "logo": "/imt.jpg",
+      "start": "Oct 2024",
+      "end": "May 2025",
+      "description": [
+        "Developed full-stack software solutions to streamline staffing and payroll processes for government agencies with 1500+ employees using Java, C#, Python, .NET, SQL Server, Javascript, HTML, CSS, and Visual Basic",
+        "Implemented web-mobile cross capability through 10+ RESTful API endpoints that interacted with SQL Server",
+        "Designed and implemented a C# automated mailing system using Gmail API that gathered real-time stock and cryptocurrency prices with YahooFinance, providing insight on upcoming changes with Grok",
+        "Implemented a full-stack app that allows users to input assets and view real-time updating value of their stock, cryptocurrency, metals"
+      ]
+    },
+    {
+      "name": "University of California, Irvine",
+      "href": "https://www.uci.edu",
+      "title": "Undergraduate Researcher",
+      "logo": "/uci.png",
+      "start": "July 2024",
+      "end": "Sep 2024",
+      "skills": [
+        "Angular",
+        "Scala",
+        "Go",
+        "Terraform",
+        "Google OAuth",
+        "Auth0"
+      ],
+      "description": [
+        "Supervised by Prof. Chen Li to develop full-stack application using Angular that runs genome sequence alignment",
+        "Increased efficiency of genome sequence alignment by over 800% through parallel computing with AWS clusters",
+        "Enabled 1,000+ users to have automatic AWS cluster creation, deletion, pausing, resuming, and file uploading to begin genome sequence alignment with an Angular frontend and backend of Scala and Go with Terraform",
+        "Enhanced user authentication with Google OAuth and Auth0, rerouting users and denying unauthorized API calls"
+      ]
+    },
+    {
+      "name": "Coding Minds Academy",
+      "href": "https://codingmind.com/",
+      "title": "Coding Instructor",
+      "logo": "/codingminds.jpg",
+      "start": "Aug 2022",
+      "end": "May 2024",
+      "skills": [
+        "Python",
+        "Javascript",
+        "Lua",
+        "HTML/CSS"
+      ],
+      "description": [
+        "Directed 60+ classes on fundamental topics of data structures, algorithms, and object-oriented programming",
+        "Achieved an average instructor rating of 94.6% by fostering an engaging and positive learning environment"
+      ]
+    }
+  ]
+}
